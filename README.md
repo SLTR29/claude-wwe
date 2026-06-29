@@ -6,7 +6,7 @@ A simple tool for tracking WWE wrestlers, events, and match results.
 
 - Track wrestler profiles and stats
 - Log match results and outcomes
-- View upcoming event scheduals
+- View upcoming event schedules
 
 ## Getting Started
 
